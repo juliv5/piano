@@ -1,0 +1,21 @@
+.piano {
+    display: inline-flexbox;
+    justify-content: space-between;
+    width: 80%;
+    margin: 0 auto;
+    
+  }
+  a:hover{
+    transform: scale(1.1) ;
+  }
+  .title{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  .boton{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+  }
